@@ -12,4 +12,4 @@ args = {
     'filename': 'example1.png'
 }
 data = [x, y]
-gp.gnuplot('test.gpi', args, data)
+gp.gnuplot('example1.gpi', args, data)
